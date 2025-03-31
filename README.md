@@ -29,4 +29,4 @@
 
 ---
 
-**欢迎来到我的Github主页！**有任何项目或内容上的问题请随时联系我。主页介绍参考[GoatCsu](https://github.com/GoatCsu)，在此感谢。
+**欢迎来到我的Github主页！** 有任何项目或内容上的问题请随时联系我。主页介绍参考[GoatCsu](https://github.com/GoatCsu)，在此感谢。
