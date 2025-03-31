@@ -1,7 +1,7 @@
 # Hello, I am Autumn.👋
-🌍[中文]() / [English]()
-🎓**Mathematics**, graduated from STU(Undergraduate & Master)
-🌱Currently learning NLP, LLMs & RL.
+- 🌍[中文](https://github.com/AuTuMnnn458/AuTuMnnn458/blob/main/Mybio-zh.md) / [English](https://github.com/AuTuMnnn458/AuTuMnnn458/blob/main/Mybio-en.md)
+- 🎓**Mathematics**, graduated from STU(Undergraduate & Master)
+- 🌱Currently learning NLP, LLMs & RL.
 
 
 ---
