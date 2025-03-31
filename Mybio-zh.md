@@ -1,5 +1,5 @@
 # 你好，我是Autumn.👋
-- 🌏[中文]() / [English]()
+- 🌏[中文](https://github.com/AuTuMnnn458/AuTuMnnn458/blob/main/Mybio-zh.md) / [English](https://github.com/AuTuMnnn458/AuTuMnnn458/blob/main/Mybio-en.md)
 - 🎓数学专业，本硕毕业于STU。
 - 🌱目前正在学习NLP，LLMs，RL等相关内容。
 
