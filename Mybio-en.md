@@ -20,6 +20,7 @@
 ### 📚**Projects & Goat**
 - **ML project(Updating)**：[ML project](https://github.com/AuTuMnnn458/Machine_Learning_project)
 - **NLP project(Updating)**：[NLP project](https://github.com/AuTuMnnn458/NLP_project)
+- **CV project(Updating)**：[CV project](https://github.com/AuTuMnnn458/CV_project)
 - **Goat**：Keep diving into NLP, contribute to open-source & focusing on the implementation of NLP/CV/LLM models in practice.
 ---
 
