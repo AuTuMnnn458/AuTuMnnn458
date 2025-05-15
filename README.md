@@ -19,6 +19,7 @@
 ### 📚**个人项目与目标**
 - **机器学习实战项目（更新中）**：[ML项目](https://github.com/AuTuMnnn458/Machine_Learning_project)
 - **NLP实战项目（更新中）**：[NLP项目](https://github.com/AuTuMnnn458/NLP_project)
+- **CV实战项目（更新中）**：[CV项目](https://github.com/AuTuMnnn458/CV_project)
 - **目标**：继续深入学习和理解NLP，为开源项目做贡献，关注NLP/CV/LLM模型在实际应用场景的落地。
 
 ---
